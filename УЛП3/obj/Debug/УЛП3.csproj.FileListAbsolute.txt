@@ -1,0 +1,9 @@
+E:\C#\УЛП3\bin\Debug\УЛП3.exe.config
+E:\C#\УЛП3\bin\Debug\УЛП3.exe
+E:\C#\УЛП3\bin\Debug\УЛП3.pdb
+E:\C#\УЛП3\obj\Debug\УЛП3.csproj.AssemblyReference.cache
+E:\C#\УЛП3\obj\Debug\УЛП3.Properties.Resources.resources
+E:\C#\УЛП3\obj\Debug\УЛП3.csproj.GenerateResource.cache
+E:\C#\УЛП3\obj\Debug\УЛП3.csproj.CoreCompileInputs.cache
+E:\C#\УЛП3\obj\Debug\УЛП3.exe
+E:\C#\УЛП3\obj\Debug\УЛП3.pdb
