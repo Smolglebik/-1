@@ -1,0 +1,14 @@
+E:\C#\УЛП1\bin\Debug\net8.0\УЛП1.exe
+E:\C#\УЛП1\bin\Debug\net8.0\УЛП1.deps.json
+E:\C#\УЛП1\bin\Debug\net8.0\УЛП1.runtimeconfig.json
+E:\C#\УЛП1\bin\Debug\net8.0\УЛП1.dll
+E:\C#\УЛП1\bin\Debug\net8.0\УЛП1.pdb
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.AssemblyInfoInputs.cache
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.AssemblyInfo.cs
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.csproj.CoreCompileInputs.cache
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.dll
+E:\C#\УЛП1\obj\Debug\net8.0\refint\УЛП1.dll
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.pdb
+E:\C#\УЛП1\obj\Debug\net8.0\УЛП1.genruntimeconfig.cache
+E:\C#\УЛП1\obj\Debug\net8.0\ref\УЛП1.dll
