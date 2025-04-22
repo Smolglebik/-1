@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbstractDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Document">
+  <Content>Это секретная информация</Content>
+  <Title>Важный документ</Title>
+  <Created>2025-04-22T12:43:01.6765688+07:00</Created>
+  <Modified>2025-04-22T12:43:01.6833359+07:00</Modified>
+</AbstractDocument>

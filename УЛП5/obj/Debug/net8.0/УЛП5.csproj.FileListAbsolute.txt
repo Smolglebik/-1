@@ -1,0 +1,14 @@
+E:\C#\УЛП5\bin\Debug\net8.0\УЛП5.exe
+E:\C#\УЛП5\bin\Debug\net8.0\УЛП5.deps.json
+E:\C#\УЛП5\bin\Debug\net8.0\УЛП5.runtimeconfig.json
+E:\C#\УЛП5\bin\Debug\net8.0\УЛП5.dll
+E:\C#\УЛП5\bin\Debug\net8.0\УЛП5.pdb
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.AssemblyInfoInputs.cache
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.AssemblyInfo.cs
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.csproj.CoreCompileInputs.cache
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.dll
+E:\C#\УЛП5\obj\Debug\net8.0\refint\УЛП5.dll
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.pdb
+E:\C#\УЛП5\obj\Debug\net8.0\УЛП5.genruntimeconfig.cache
+E:\C#\УЛП5\obj\Debug\net8.0\ref\УЛП5.dll
